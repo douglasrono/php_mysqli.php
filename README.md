@@ -1,1 +1,3 @@
-# php_mysqli.php
+# php_mysqli
+
+This snippet contains mysqli code and functions.
